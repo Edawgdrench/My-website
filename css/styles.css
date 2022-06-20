@@ -1,0 +1,142 @@
+h1 {
+  margin-bottom: 0;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #FFCC8F;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  font-family: Tahoma, sans-serif;
+}
+
+.heading {
+  color: #FFCC8F;
+  font-size: 50px;
+}
+
+.Subtitle {
+  color: #FFCC8F;
+}
+
+/*****************************margins*****************************************
+.top-container{
+  background-color:#FFCC8F;
+  height:200px;
+  width:200px;
+  padding:20px;
+  border:solid 10px;
+  margin-right:100%;
+
+}
+.middle-container{
+  background-color:red;
+  height:200px;
+  width:200px;
+  margin-right:210px;
+  border:solid 20px;
+}
+.bottom-container{
+  background-color:blue;
+  height:200px;
+  width:200px;
+  border:solid 10px;
+  margin-left:250px;
+
+}
+*******************************************************************************/
+hr {
+  border-color: white;
+  border-style: none;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 5%;
+}
+
+.city {
+  position: relative;
+  left: 200px;
+}
+
+.top-container {
+  width: 200px;
+  margin: 100px;
+}
+
+.Subtitle {
+  margin: 0;
+}
+
+.pfp {
+  height: 100px;
+  width: 100px;
+}
+
+h2 {
+  color: #903749;
+  padding: 0;
+  font-family: 'Viga', sans-serif;
+}
+
+h3 {
+  font-family: 'Viga', sans-serif;
+  color: #FFCC8F;
+}
+
+p {
+  color: #FFCC8F;
+  margin: 0;
+}
+
+.mic {
+  height: 25%;
+  width: 25%;
+  margin: 0;
+  padding: 0;
+}
+
+.comp {
+  margin: 0;
+  padding: 0;
+  width:25%;
+}
+
+.pfp-table {
+  margin: 70px;
+}
+
+.First-skill-table {
+  margin: 70px;
+}
+
+.Second-skill-table {
+  margin: 70px;
+}
+
+.mail-to{
+  border:none;
+  background-color:#52616B;
+  font-size:20px;
+  font-family:'Viga', sans-serif;
+  color:black;
+  border-radius:8px;
+  text-decoration:none;
+}
+.mail-to:hover{
+  background-color:#888888;
+}
+.instagram{
+  text-decoration:none;
+  color:white;
+}
+.Bottom-box{
+  background-color:#303841;
+  padding:20px 0;
+}
+.instagram:hover{
+  color:#06283D;
+}
+.Copyright{
+  font-size:15px;
+}
